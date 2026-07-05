@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
+    "fastapi>=0.139.0",
     "folium>=0.20.0",
     "geopandas>=1.1.4",
     "mapclassify>=2.10.0",
@@ -15,8 +16,10 @@ dependencies = [
     "netcdf4>=1.7.4",
     "pandas>=3.0.3",
     "pyarrow>=24.0.0",
+    "pydantic>=2.13.4",
     "rioxarray>=0.22.0",
     "shapely>=2.1.2",
+    "uvicorn>=0.50.0",
     "xarray>=2026.4.0",
 ]
 
