@@ -12,9 +12,12 @@ dependencies = [
     "geopandas>=1.1.4",
     "mapclassify>=2.10.0",
     "matplotlib>=3.11.0",
+    "netcdf4>=1.7.4",
     "pandas>=3.0.3",
     "pyarrow>=24.0.0",
+    "rioxarray>=0.22.0",
     "shapely>=2.1.2",
+    "xarray>=2026.4.0",
 ]
 
 [project.scripts]
