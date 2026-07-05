@@ -18,6 +18,8 @@ dependencies = [
     "pyarrow>=24.0.0",
     "pydantic>=2.13.4",
     "rioxarray>=0.22.0",
+    "scikit-learn>=1.9.0",
+    "sentence-transformers>=5.6.0",
     "shapely>=2.1.2",
     "uvicorn>=0.50.0",
     "xarray>=2026.4.0",
@@ -32,6 +34,7 @@ build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
+    "httpx2>=2.5.0",
     "jupyter>=1.1.1",
     "nbstripout>=0.9.1",
     "pytest>=9.1.1",
