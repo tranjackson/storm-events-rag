@@ -6,6 +6,6 @@ What works so far: Built a tested Python data pipeline (pandas, GeoPandas, pytes
 
 <img width="777" height="579" alt="w1d4-anomoly" src="https://github.com/user-attachments/assets/f923a4b7-bd50-49d1-bc57-a2e471518c71" />
 
-Usubg HuggingFace's model libraries, I am able to rank similar narratives with scores and create a working mental model of "embedding = vector, similarity = dot product."
+Using HuggingFace's model libraries, I am able to rank similar narratives with scores and create a working mental model of "embedding = vector, similarity = dot product."
 
 
